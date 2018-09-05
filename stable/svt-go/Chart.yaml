@@ -3,3 +3,8 @@ appVersion: "1.0"
 description: A Helm chart for Kubernetes
 name: svt-go
 version: 0.1.0
+keywords:
+  - svt-go
+  - ocp svt test
+appVersion: 0.2.1
+icon: "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png"
